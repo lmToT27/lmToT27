@@ -6,15 +6,22 @@
     <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=bb9af7&text=Connect%20with%20me&height=50&fontSize=24&fontAlignY=60" />
         <p align="center">
-            <a href="https://fb.com/leminh2027" target="blank"><img 
-                    src="https://cdn.simpleicons.org/facebook/bb9af7"
-                    alt="leminh2027" height="40" width="40" style="margin-right: 40px;" /></a>
-            <a href="https://instagram.com/lmtot27" target="blank"><img
-                    src="https://cdn.simpleicons.org/instagram/bb9af7" alt="lmtot27" height="40" width="40"
-                    style="margin-right: 40px;" /></a>
-            <a href="https://codeforces.com/profile/tml27" target="blank"><img
-                    src="https://cdn.simpleicons.org/codeforces/bb9af7" alt="tml27" height="40" width="40" />
-            </a>
+            <a href="https://fb.com/leminh2027" target="blank">
+                <img src="https://cdn.simpleicons.org/facebook/bb9af7" 
+                    alt="leminh2027" height="40" width="40" 
+                    style="margin-right: 40px; vertical-align: middle;" /></a>
+            <a href="https://instagram.com/lmtot27" target="blank">
+                <img src="https://cdn.simpleicons.org/instagram/bb9af7" 
+                    alt="lmtot27" height="40" width="40" 
+                    style="margin-right: 40px; vertical-align: middle;" /></a>
+            <a href="https://www.linkedin.com/in/minh-tuan-le-05a014393/" target="blank">
+                <img src="https://img.icons8.com/ios-filled/100/bb9af7/linkedin.png" 
+                    alt="linkedin" height="40" width="40" 
+                    style="margin-right: 40px; vertical-align: middle;" /></a>
+            <a href="https://codeforces.com/profile/tml27" target="blank">
+                <img src="https://cdn.simpleicons.org/codeforces/bb9af7" 
+                    alt="tml27" height="40" width="40" 
+                    style="vertical-align: middle;" /></a>
         </p>
     </div>
     <div align="center">
