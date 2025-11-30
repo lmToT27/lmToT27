@@ -14,7 +14,7 @@
                 <img src="https://cdn.simpleicons.org/instagram/bb9af7" 
                     alt="lmtot27" height="40" width="40" 
                     style="margin-right: 40px; vertical-align: middle;" /></a>
-            <a href="https://www.linkedin.com/in/minh-tuan-le-05a014393/" target="blank">
+            <a href="https://www.linkedin.com/in/lmtot27/" target="blank">
                 <img src="https://img.icons8.com/ios-filled/100/bb9af7/linkedin.png" 
                     alt="linkedin" height="40" width="40" 
                     style="margin-right: 40px; vertical-align: middle;" /></a>
