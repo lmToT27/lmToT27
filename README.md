@@ -25,8 +25,8 @@
         </p>
     </div>
     <div align="center">
-        <br/> <br/>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=80&section=header&text=Languages%20and%20Tools&fontSize=40&fontColor=a83ede&fontAlignY=60&animation=fadeIn"
+        <br/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=80&section=header&text=Languages%20and%20Tools&fontSize=50&fontColor=a83ede&fontAlignY=60&animation=fadeIn"
             width="50%" />
     </div>
     <img src="https://skillicons.dev/icons?i=cpp,cs,c,python,unity,git,vscode,visualstudio&perline=8" />
