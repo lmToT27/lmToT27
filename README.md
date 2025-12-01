@@ -36,13 +36,14 @@
         <br/>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=lmToT27&theme=tokyonight&no-frame=true&column=4"
-                alt="lmToT27 trophies" />
+                width=600 alt="lmToT27 trophies" />
         </a>
         <br/>
         <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmToT27&theme=tokyonight" />
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmToT27&theme=tokyonight" 
+            width=600 />
         <br/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmToT27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-            alt="streak stats" />
+            width = 600 alt="streak stats" />
     </div>
 </div>
